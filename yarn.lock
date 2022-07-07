@@ -2854,6 +2854,13 @@ iconv-lite@0.4.24:
   dependencies:
     safer-buffer ">= 2.1.2 < 3"
 
+idempotent-babel-polyfill@6.26.0-2:
+  version "6.26.0-2"
+  resolved "https://registry.yarnpkg.com/idempotent-babel-polyfill/-/idempotent-babel-polyfill-6.26.0-2.tgz#0c5fd8d7e4e4cf9fa32b7899f8f184265e40bc60"
+  integrity sha512-EChQ9cJz0NQXQfG8pTBSbVYgqexS74sLKeF0nt+ieB9OMpIJEMgAvS8LDpVl45Z8jRTs4HRyBAwxgdiT0plc7g==
+  dependencies:
+    babel-polyfill "^6.26.0"
+
 ieee754@^1.1.4:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/ieee754/-/ieee754-1.2.1.tgz#8eb7a10a63fff25d15a57b001586d177d1b0d352"
